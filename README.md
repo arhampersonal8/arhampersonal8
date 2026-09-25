@@ -1,5 +1,5 @@
 <div align="center">
-https://github-readme-activity-graph.vercel.app/graph?username=arhampersonal8&theme=react-dark&bg_color=00000000&hide_border=true&color=EF93C4&line=FF69B4&point=F8BBD0&v=1
+
   <!-- LIGHT/DARK RESPONSIVE BANNER -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=24,1&height=220&section=header&text=Welcome%20to%20my%20Space!&fontSize=42&fontColor=EF93C4&animation=twinkling&fontAlignY=38">
