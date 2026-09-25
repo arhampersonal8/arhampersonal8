@@ -262,35 +262,7 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
 
 <hr />
 
-<!-- CONTRIBUTION ACTIVITY GRAPH (HIGHLY RELIABLE PNG ENGINE) -->
-<div align="center">
-  <h2>📈 Contribution Activity</h2>
-  <br />
-  <a href="https://github.com/arhampersonal8">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhampersonal8&theme=react-dark&bg_color=00000000&hide_border=true&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&v=2" alt="Contribution Graph" width="95%" />
-  </a>
-</div>
 
-<br />
-
-<hr />
-
-<!-- CONTRIBUTION SNAKE SECTION -->
-<div align="center">
-  <h2>🐍 Contribution Snake</h2>
-  <br />
-  <p><i>Automated via GitHub Actions</i></p>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arhampersonal8/arhampersonal8/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arhampersonal8/arhampersonal8/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/arhampersonal8/arhampersonal8/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
-<br />
-
-<hr />
 
 <!-- CONNECT WITH ME -->
 <div align="center">
