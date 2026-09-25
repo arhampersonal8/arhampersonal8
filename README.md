@@ -154,7 +154,7 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
   <summary><b>🧠 REMINIPlay — AI-Based Cognitive Gaming & Memory Assistance Platform</b></summary>
   <br />
   <p>
-    Developed interactive cognitive games targeting memory improvement, attention, and object recognition for Dementia patients. Integrated AI/ML-based adaptive difficulty mechanisms, voice assistance, multilingual interfaces, and daily activity/medical reminders.
+    Developed interactive cognitive games targeting memory improvement, attention, and object recognition for Dementia patients[cite: 1]. Integrated AI/ML-based adaptive difficulty mechanisms, voice assistance, multilingual interfaces, and daily activity/medical reminders[cite: 1].
   </p>
 </details>
 
@@ -164,7 +164,7 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
   <summary><b>🤖 Adaptive Sense — Multimodal AI System for Human-AI Interaction</b></summary>
   <br />
   <p>
-    An interactive multimodal AI platform integrating text, speech, image, and video analysis. Features real-time emotion and sentiment detection with confidence-aware predictions, dynamically adjusting UI guidance and interaction complexity based on user state.
+    An interactive multimodal AI platform integrating text, speech, image, and video analysis[cite: 1]. Features real-time emotion and sentiment detection with confidence-aware predictions, dynamically adjusting UI guidance and interaction complexity based on user state[cite: 1].
   </p>
 </details>
 
@@ -174,7 +174,7 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
   <summary><b>⚡ FedGrid — Privacy-Preserving Federated AI for Smart Energy Analytics</b></summary>
   <br />
   <p>
-    Built a decentralized energy demand prediction platform using Federated Learning (FedAvg) with Scikit-learn and Pandas. Includes anomaly detection via Isolation Forest and interactive Plotly dashboards evaluating privacy vs. accuracy trade-offs.
+    Built a decentralized energy demand prediction platform using Federated Learning (FedAvg) with Scikit-learn and Pandas[cite: 1]. Includes anomaly detection via Isolation Forest and interactive Plotly dashboards evaluating privacy vs. accuracy trade-offs[cite: 1].
   </p>
 </details>
 
@@ -184,7 +184,7 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
   <summary><b>📅 EZYTable — Automated Timetable Scheduling System</b></summary>
   <br />
   <p>
-    An automated scheduling algorithm modeling real-world academic constraints (teachers, rooms, time slots) as a computational optimization problem to eliminate manual scheduling conflicts.
+    An automated scheduling algorithm modeling real-world academic constraints (teachers, rooms, time slots) as a computational optimization problem to eliminate manual scheduling conflicts[cite: 1].
   </p>
 </details>
 
@@ -194,7 +194,7 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
   <summary><b>🛠️ Aurastic — Skilled Worker-Customer Connectivity Platform</b></summary>
   <br />
   <p>
-    A digital platform designed to bridge local skilled/blue-collar workers with customers, streamlining service discovery, scheduling, and direct communication.
+    A digital platform designed to bridge local skilled/blue-collar workers with customers, streamlining service discovery, scheduling, and direct communication[cite: 1].
   </p>
 </details>
 
@@ -213,8 +213,8 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
   <summary><b>🔬 Research Paper Presentation — Sole Author (College Research Competition)</b></summary>
   <br />
   <p>
-    <b>Title:</b> Fraud Detection in Government Examinations using Machine Learning<br />
-    Investigated ML frameworks to identify fraudulent patterns and anomalous behaviors in high-stakes examination processes. Formulated the problem, trained ML proof-of-concept models, and presented technical findings independently.
+    <b>Title:</b> Fraud Detection in Government Examinations using Machine Learning[cite: 1]<br />
+    Investigated ML frameworks to identify fraudulent patterns and anomalous behaviors in high-stakes examination processes[cite: 1]. Formulated the problem, trained ML proof-of-concept models, and presented technical findings independently[cite: 1].
   </p>
 </details>
 
@@ -224,7 +224,7 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
   <summary><b>💼 Research & Content Intern — Entrepreneur Woods (08/2025 – 11/2025)</b></summary>
   <br />
   <p>
-    Conducted secondary market and competitor research across startups and emerging business trends. Synthesized technical insights into structured content and collaborated with cross-functional teams to support client strategy.
+    Conducted secondary market and competitor research across startups and emerging business trends[cite: 1]. Synthesized technical insights into structured content and collaborated with cross-functional teams to support client strategy[cite: 1].
   </p>
 </details>
 
@@ -234,7 +234,7 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
   <summary><b>🌌 Citizen Science Volunteer — Zooniverse (2026)</b></summary>
   <br />
   <p>
-    Contributed to astronomical research projects involving space-telescope image classification, galaxy morphology analysis, and imaging artifact identification to assist ongoing astrophysics research.
+    Contributed to astronomical research projects involving space-telescope image classification, galaxy morphology analysis, and imaging artifact identification to assist ongoing astrophysics research[cite: 1].
   </p>
 </details>
 
@@ -254,7 +254,7 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
     💼 <b>Data Analytics Job Simulation</b> (Deloitte) &nbsp;|&nbsp;
     🐍 <b>Python Essentials 1</b> (Cisco) &nbsp;|&nbsp;
     🛡️ <b>Cybersecurity Awareness</b> (HP LIFE) &nbsp;|&nbsp;
-    🚀 <b>Adobe University Hackathon</b> (2026)
+    🚀 <b>Adobe University Hackathon</b> (2026)[cite: 1]
   </p>
 </div>
 
@@ -262,14 +262,12 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
 
 <hr />
 
-<!-- CONTRIBUTION ACTIVITY -->
+<!-- CONTRIBUTION ACTIVITY GRAPH (HIGHLY RELIABLE PNG ENGINE) -->
 <div align="center">
-  <h2>📈 Contribution Activity (~1,212 Contributions)</h2>
-
+  <h2>📈 Contribution Activity</h2>
   <br />
-
   <a href="https://github.com/arhampersonal8">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhampersonal8&theme=react-dark&bg_color=00000000&hide_border=true&color=EF93C4&line=FF69B4&point=F8BBD0" alt="Contribution Graph" width="90%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhampersonal8&theme=react-dark&bg_color=00000000&hide_border=true&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&v=2" alt="Contribution Graph" width="95%" />
   </a>
 </div>
 
@@ -277,9 +275,12 @@ My goal is to grow as an AI/ML researcher and engineer, work on challenging prob
 
 <hr />
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION SNAKE SECTION -->
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h2>🐍 Contribution Snake</h2>
+  <br />
+  <p><i>Automated via GitHub Actions</i></p>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arhampersonal8/arhampersonal8/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arhampersonal8/arhampersonal8/output/github-contribution-grid-snake.svg">
